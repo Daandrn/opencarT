@@ -78,8 +78,4 @@ if (is_file(DIR_STORAGE . 'vendor/twig/twig/src/Resources/escaper.php')) {
 }
 if (is_file(DIR_STORAGE . 'vendor/twig/twig/src/Resources/string_loader.php')) {
 	require_once(DIR_STORAGE . 'vendor/twig/twig/src/Resources/string_loader.php');
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> df65ab5ce9 (Versão modificada do projeto)
