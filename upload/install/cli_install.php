@@ -10,7 +10,7 @@
 //                               --email       email@example.com
 //                               --password    password
 //                               --http_server http://localhost/opencart/
-//                               --language    en-gb
+//                               --language    pt-br
 //                               --db_driver   mysqli
 //                               --db_hostname localhost
 //                               --db_username root
@@ -140,7 +140,7 @@ class CliInstall extends \Opencart\System\Engine\Controller {
 			'language'    => 'pt-br',
 			'db_driver'   => 'mysqli',
 			'db_hostname' => 'localhost',
-			'db_password' => 'admin',
+			'db_password' => '',
 			'db_port'     => '3306',
 			'db_prefix'   => 'oc_',
 			'db_ssl_key'  => '',
