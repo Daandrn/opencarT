@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Statuses';
+$_['heading_title']    = 'Status de Devoluções';
 
 // Text
-$_['text_success']     = 'Success: You have modified return statuses!';
-$_['text_list']        = 'Return Status List';
-$_['text_add']         = 'Add Return Status';
-$_['text_edit']        = 'Edit Return Status';
+$_['text_success']     = 'Sucesso: Você modificou os status de devolução!';
+$_['text_list']        = 'Lista de Status de Devolução';
+$_['text_add']         = 'Adicionar Status de Devolução';
+$_['text_edit']        = 'Editar Status de Devolução';
 
 // Column
-$_['column_name']      = 'Return Status Name';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome do Status de Devolução';
+$_['column_action']    = 'Ação';
 
 // Entry
-$_['entry_name']       = 'Return Status Name';
+$_['entry_name']       = 'Nome do Status de Devolução';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify return statuses!';
-$_['error_name']       = 'Return Status Name must be between 3 and 32 characters!';
-$_['error_default']    = 'Warning: This return status cannot be deleted as it is currently assigned as the default return status!';
-$_['error_return']     = 'Warning: This return status cannot be deleted as it is currently assigned to %s returns!';
+$_['error_permission'] = 'Aviso: Você não tem permissão para modificar os status de devolução!';
+$_['error_name']       = 'O nome do status de devolução deve ter entre 3 e 32 caracteres!';
+$_['error_default']    = 'Aviso: Este status de devolução não pode ser excluído, pois está atualmente atribuído como o status padrão de devolução!';
+$_['error_return']     = 'Aviso: Este status de devolução não pode ser excluído, pois está atualmente atribuído a %s devoluções!';

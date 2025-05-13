@@ -1,39 +1,39 @@
 <?php
 // Heading
-$_['heading_title']     = 'Languages';
+$_['heading_title']     = 'Idiomas';
 
 // Text
-$_['text_success']      = 'Success: You have modified languages!';
-$_['text_list']         = 'Language List';
-$_['text_add']          = 'Add Language';
-$_['text_edit']         = 'Edit Language';
+$_['text_success']      = 'Sucesso: Você modificou os idiomas!';
+$_['text_list']         = 'Lista de Idiomas';
+$_['text_add']          = 'Adicionar Idioma';
+$_['text_edit']         = 'Editar Idioma';
 
 // Column
-$_['column_name']       = 'Language Name';
-$_['column_code']       = 'Code';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Nome do Idioma';
+$_['column_code']       = 'Código';
+$_['column_sort_order'] = 'Ordem de Exibição';
+$_['column_action']     = 'Ação';
 
 // Entry
-$_['entry_name']        = 'Language Name';
-$_['entry_code']        = 'Code';
-$_['entry_extension']   = 'Extension';
-$_['entry_locale']      = 'Locale';
+$_['entry_name']        = 'Nome do Idioma';
+$_['entry_code']        = 'Código';
+$_['entry_extension']   = 'Extensão';
+$_['entry_locale']      = 'Localidade';
 $_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Ordem de Exibição';
 
 // Help
-$_['help_locale']       = 'Example: en_US.UTF-8,en_US,en-gb,en_gb,english';
-$_['help_status']       = 'Hide/Show it in language dropdown';
+$_['help_locale']       = 'Exemplo: pt_BR.UTF-8,pt_BR,pt-br,portugues';
+$_['help_status']       = 'Ocultar/Exibir no dropdown de idiomas';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify languages!';
-$_['error_exists']      = 'Warning: You have already added this language!';
-$_['error_name']        = 'Language Name must be between 1 and 32 characters!';
-$_['error_code']        = 'Language Code must be between 2 and 5 characters!';
-$_['error_file']        = 'File could not be found!';
-$_['error_locale']      = 'Locale required!';
-$_['error_default']     = 'Warning: This language cannot be deleted as it is currently assigned as the default store language!';
-$_['error_admin']       = 'Warning: This Language cannot be deleted as it is currently assigned as the administration language!';
-$_['error_store']       = 'Warning: This language cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']       = 'Warning: This language cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']  = 'Aviso: Você não tem permissão para modificar idiomas!';
+$_['error_exists']      = 'Aviso: Você já adicionou este idioma!';
+$_['error_name']        = 'O Nome do Idioma deve ter entre 1 e 32 caracteres!';
+$_['error_code']        = 'O Código do Idioma deve ter entre 2 e 5 caracteres!';
+$_['error_file']        = 'O arquivo não pôde ser encontrado!';
+$_['error_locale']      = 'Localidade é obrigatória!';
+$_['error_default']     = 'Aviso: Este idioma não pode ser excluído, pois está atualmente atribuído como idioma padrão da loja!';
+$_['error_admin']       = 'Aviso: Este idioma não pode ser excluído, pois está atualmente atribuído como idioma da administração!';
+$_['error_store']       = 'Aviso: Este idioma não pode ser excluído, pois está atualmente atribuído a %s lojas!';
+$_['error_order']       = 'Aviso: Este idioma não pode ser excluído, pois está atualmente atribuído a %s pedidos!';

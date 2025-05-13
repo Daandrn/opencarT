@@ -137,10 +137,10 @@ class CliInstall extends \Opencart\System\Engine\Controller {
 		// Options
 		$option = [
 			'username'    => 'admin',
-			'language'    => 'en-gb',
+			'language'    => 'pt-br',
 			'db_driver'   => 'mysqli',
 			'db_hostname' => 'localhost',
-			'db_password' => '',
+			'db_password' => 'admin',
 			'db_port'     => '3306',
 			'db_prefix'   => 'oc_',
 			'db_ssl_key'  => '',

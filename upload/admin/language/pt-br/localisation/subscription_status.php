@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']      = 'Subscription Statuses';
+$_['heading_title']      = 'Status de Assinaturas';
 
 // Text
-$_['text_success']       = 'Success: You have modified subscription statuses!';
-$_['text_list']          = 'Subscription Status List';
-$_['text_add']           = 'Add Subscription Status';
-$_['text_edit']          = 'Edit Subscription Status';
+$_['text_success']       = 'Sucesso: Você modificou os status de assinaturas!';
+$_['text_list']          = 'Lista de Status de Assinaturas';
+$_['text_add']           = 'Adicionar Status de Assinatura';
+$_['text_edit']          = 'Editar Status de Assinatura';
 
 // Column
-$_['column_name']        = 'Subscription Status Name';
-$_['column_action']      = 'Action';
+$_['column_name']        = 'Nome do Status de Assinatura';
+$_['column_action']      = 'Ação';
 
 // Entry
-$_['entry_name']         = 'Subscription Status Name';
+$_['entry_name']         = 'Nome do Status de Assinatura';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify subscription statuses!';
-$_['error_name']         = 'Subscription Status Name must be between 3 and 32 characters!';
-$_['error_default']      = 'Warning: This subscription status cannot be deleted as it is currently assigned as the default store subscription status!';
-$_['error_subscription'] = 'Warning: This subscription status cannot be deleted as it is currently assigned to %s subscriptions!';
+$_['error_permission']   = 'Aviso: Você não tem permissão para modificar os status de assinaturas!';
+$_['error_name']         = 'O nome do status de assinatura deve ter entre 3 e 32 caracteres!';
+$_['error_default']      = 'Aviso: Este status de assinatura não pode ser excluído, pois está atualmente atribuído como o status padrão de assinaturas da loja!';
+$_['error_subscription'] = 'Aviso: Este status de assinatura não pode ser excluído, pois está atualmente atribuído a %s assinaturas!';

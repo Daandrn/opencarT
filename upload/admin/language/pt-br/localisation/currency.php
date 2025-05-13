@@ -1,42 +1,42 @@
 <?php
 // Heading
-$_['heading_title']        = 'Currencies';
+$_['heading_title']        = 'Moedas';
 
 // Text
-$_['text_success']         = 'Success: You have modified currencies!';
-$_['text_list']            = 'Currency List';
-$_['text_add']             = 'Add Currency';
-$_['text_edit']            = 'Edit Currency';
-$_['text_iso']             = 'You can find a full list of ISO currency codes and settings <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">here</a>.';
+$_['text_success']         = 'Sucesso: Você modificou as moedas!';
+$_['text_list']            = 'Lista de Moedas';
+$_['text_add']             = 'Adicionar Moeda';
+$_['text_edit']            = 'Editar Moeda';
+$_['text_iso']             = 'Você pode encontrar uma lista completa de códigos de moeda ISO e configurações <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">aqui</a>.';
 
 // Column
-$_['column_title']         = 'Currency Title';
-$_['column_code']          = 'Code';
-$_['column_value']         = 'Value';
+$_['column_title']         = 'Título da Moeda';
+$_['column_code']          = 'Código';
+$_['column_value']         = 'Valor';
 $_['column_status']        = 'Status';
-$_['column_date_modified'] = 'Last Updated';
-$_['column_action']        = 'Action';
+$_['column_date_modified'] = 'Última Atualização';
+$_['column_action']        = 'Ação';
 
 // Entry
-$_['entry_title']          = 'Currency Title';
-$_['entry_code']           = 'Code';
-$_['entry_value']          = 'Value';
-$_['entry_symbol_left']    = 'Symbol Left';
-$_['entry_symbol_right']   = 'Symbol Right';
-$_['entry_decimal_place']  = 'Decimal Places';
+$_['entry_title']          = 'Título da Moeda';
+$_['entry_code']           = 'Código';
+$_['entry_value']          = 'Valor';
+$_['entry_symbol_left']    = 'Símbolo à Esquerda';
+$_['entry_symbol_right']   = 'Símbolo à Direita';
+$_['entry_decimal_place']  = 'Casas Decimais';
 $_['entry_status']         = 'Status';
 
 // Help
-$_['help_code']            = 'Do not change if this is your default currency.';
-$_['help_value']           = 'The value of your default currency in the current currency unit. Set to 1 for your default currency.';
+$_['help_code']            = 'Não altere se esta for a sua moeda padrão.';
+$_['help_value']           = 'O valor da sua moeda padrão na unidade da moeda atual. Defina como 1 para sua moeda padrão.';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify currencies!';
-$_['error_extension']      = 'Warning: The currency extension could not be found!';
-$_['error_title']          = 'Currency Title must be between 3 and 32 characters!';
-$_['error_code']           = 'Currency Code must contain 3 characters!';
-$_['error_exists']         = 'Currency does not exist!';
-$_['error_file']           = 'File could not be found!';
-$_['error_default']        = 'Warning: This currency cannot be deleted as it is currently assigned as the default store currency!';
-$_['error_store']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']     = 'Aviso: Você não tem permissão para modificar as moedas!';
+$_['error_extension']      = 'Aviso: A extensão da moeda não pôde ser encontrada!';
+$_['error_title']          = 'O Título da Moeda deve ter entre 3 e 32 caracteres!';
+$_['error_code']           = 'O Código da Moeda deve conter 3 caracteres!';
+$_['error_exists']         = 'A moeda não existe!';
+$_['error_file']           = 'O arquivo não pôde ser encontrado!';
+$_['error_default']        = 'Aviso: Esta moeda não pode ser excluída, pois está atualmente atribuída como a moeda padrão da loja!';
+$_['error_store']          = 'Aviso: Esta moeda não pode ser excluída, pois está atualmente atribuída a %s lojas!';
+$_['error_order']          = 'Aviso: Esta moeda não pode ser excluída, pois está atualmente atribuída a %s pedidos!';

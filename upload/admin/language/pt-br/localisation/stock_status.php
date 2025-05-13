@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Stock Statuses';
+$_['heading_title']    = 'Status de Estoque';
 
 // Text
-$_['text_success']     = 'Success: You have modified stock statuses!';
-$_['text_list']        = 'Stock Status List';
-$_['text_add']         = 'Add Stock Status';
-$_['text_edit']        = 'Edit Stock Status';
+$_['text_success']     = 'Sucesso: Você modificou os status de estoque!';
+$_['text_list']        = 'Lista de Status de Estoque';
+$_['text_add']         = 'Adicionar Status de Estoque';
+$_['text_edit']        = 'Editar Status de Estoque';
 
 // Column
-$_['column_name']      = 'Stock Status Name';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome do Status de Estoque';
+$_['column_action']    = 'Ação';
 
 // Entry
-$_['entry_name']       = 'Stock Status Name';
+$_['entry_name']       = 'Nome do Status de Estoque';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify stock statuses!';
-$_['error_name']       = 'Stock Status Name must be between 3 and 32 characters!';
-$_['error_product']    = 'Warning: This stock status cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission'] = 'Aviso: Você não tem permissão para modificar os status de estoque!';
+$_['error_name']       = 'O nome do status de estoque deve ter entre 3 e 32 caracteres!';
+$_['error_product']    = 'Aviso: Este status de estoque não pode ser excluído, pois está atualmente atribuído a %s produtos!';

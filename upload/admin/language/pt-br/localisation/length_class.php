@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']    = 'Length Classes';
+$_['heading_title']    = 'Classes de Comprimento';
 
 // Text
-$_['text_success']     = 'Success: You have modified length classes!';
-$_['text_list']        = 'Length Class List';
-$_['text_add']         = 'Add Length Class';
-$_['text_edit']        = 'Edit Length Class';
+$_['text_success']     = 'Sucesso: Você modificou as classes de comprimento!';
+$_['text_list']        = 'Lista de Classes de Comprimento';
+$_['text_add']         = 'Adicionar Classe de Comprimento';
+$_['text_edit']        = 'Editar Classe de Comprimento';
 
 // Column
-$_['column_title']     = 'Length Title';
-$_['column_unit']      = 'Length Unit';
-$_['column_value']     = 'Value';
-$_['column_action']    = 'Action';
+$_['column_title']     = 'Título do Comprimento';
+$_['column_unit']      = 'Unidade de Comprimento';
+$_['column_value']     = 'Valor';
+$_['column_action']    = 'Ação';
 
 // Entry
-$_['entry_title']      = 'Length Title';
-$_['entry_unit']       = 'Length Unit';
-$_['entry_value']      = 'Value';
+$_['entry_title']      = 'Título do Comprimento';
+$_['entry_unit']       = 'Unidade de Comprimento';
+$_['entry_value']      = 'Valor';
 
 // Help
-$_['help_value']       = 'The value of your default length in the current length unit. Set to 1 for your default length.';
+$_['help_value']       = 'O valor do seu comprimento padrão na unidade de comprimento atual. Defina como 1 para o seu comprimento padrão.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify length classes!';
-$_['error_title']      = 'Length Title must be between 3 and 32 characters!';
-$_['error_unit']       = 'Length Unit must be between 1 and 4 characters!';
-$_['error_default']    = 'Warning: This length class cannot be deleted as it is currently assigned as the default store length class!';
-$_['error_product']    = 'Warning: This length class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission'] = 'Aviso: Você não tem permissão para modificar as classes de comprimento!';
+$_['error_title']      = 'O Título do Comprimento deve ter entre 3 e 32 caracteres!';
+$_['error_unit']       = 'A Unidade de Comprimento deve ter entre 1 e 4 caracteres!';
+$_['error_default']    = 'Aviso: Esta classe de comprimento não pode ser excluída, pois está atualmente atribuída como a classe de comprimento padrão da loja!';
+$_['error_product']    = 'Aviso: Esta classe de comprimento não pode ser excluída, pois está atualmente atribuída a %s produtos!';
